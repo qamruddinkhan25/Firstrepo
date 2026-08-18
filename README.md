@@ -1,3 +1,2 @@
 # Firstrepo
-Qamruddin
-Past
+My name
